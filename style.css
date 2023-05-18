@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #D6E1F0 !important;
+    height: 100vh;
+}
+
+
+.qr-code{
+    padding: 15px;
+    border-radius: 25px !important;
+}
+
+.card-text{
+    font-size: 14px;
+    line-height: 18px;
+    color: gray;
+}
